@@ -35,14 +35,15 @@ Target audience (Educators/Principals vs. Students)
 Age groups (13-17, 18-24, 25-34, 35-44, 45-54, 55-64)
 
 **Geographic distribution**
-Usage
-Clone the repository
+   Usage
+   Clone the repository
 
 **Install required dependencies** (pandas, numpy, matplotlib, seaborn)
 
-Run the Jupyter notebook Marketing Team Data Analysis.ipynb
+**Run**
+The Jupyter notebook Marketing Team Data Analysis.ipynb
 
-Dependencies
+**Dependencies**
 Python 3.x
 Jupyter Notebook
 pandas
@@ -61,8 +62,6 @@ Campaigns with highest reach and impressions
 Most cost-effective channels
 Best-performing audience segment 
 
-**Geographic performance variation
-**
 **Future Work**
 Implement predictive modeling for campaign performance
 Add A/B testing framework
