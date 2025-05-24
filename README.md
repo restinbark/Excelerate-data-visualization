@@ -1,8 +1,7 @@
-![image](https://github.com/user-attachments/assets/6fe79fcc-808f-45ec-9724-2ee6794d60fc)**Marketing Team Data Analysis**
-![image](https://github.com/user-attachments/assets/fa076abc-c085-4728-b308-158f14bc5ca9)
+**Marketing Team Data Analysis**
 
-
-
+![Bubble plot of Frequency vs CTR_Enhanced](https://github.com/user-attachments/assets/db0a503a-64ff-4e78-a7a2-db0d41b424b4)
+![CPC and CPR by Campaign_Enhanced](https://github.com/user-attachments/assets/f55ee805-7562-4040-9270-e12883d388e4)
 
 **Overview**
     This project analyzes marketing campaign performance data to evaluate key metrics like reach, impressions, clicks, and conversion rates. The analysis helps optimize 
